@@ -77,7 +77,6 @@ D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\invent
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.index.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.frmAddProduct.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.login.resources
-D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.overview.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.Properties.Resources.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.Screens.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.signin.resources
@@ -95,3 +94,6 @@ D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\invent
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\ref\inventory system.dll
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.frmProductCategory.resources
 D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.frmProductTypes.resources
+D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.frmProductDetails.resources
+D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.usercontrol.userctrlPurchaseOrder.resources
+D:\IMS_Project\inventory system\inventory system\obj\Debug\net6.0-windows\inventory_system.usercontrol.userctrlMenu.resources
