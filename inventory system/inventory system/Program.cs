@@ -15,8 +15,12 @@ namespace inventory_system
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
+<<<<<<< HEAD
 
             Application.Run(new MainForm()); // Create and run the main form
+=======
+            Application.Run(new overview());
+>>>>>>> origin/main
         }
     }
 

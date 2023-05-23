@@ -8,21 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace inventory_system.usercontrol
+namespace inventory_system
 {
-    public partial class userctrlPurchaseOrder : UserControl
+    public partial class frmStock : Form
     {
-        public userctrlPurchaseOrder()
+        public frmStock()
         {
             InitializeComponent();
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label12_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

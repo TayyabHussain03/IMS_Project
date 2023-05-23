@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DeoKchTmS0Ikv4VkrzeV1mt+ZLDAh6krOQ9IAPBcdTS6JEankT6WAcq+ks7eSFmtxxi8aB8BD+XHOhA+lppclQ==",
+  "dgSpecHash": "xDgTMN80MuQ7StYpCgWrqpDZkO6sHyFxPpQIHw7JvpAKNEmYmbN/ceIM/HNHB7rryR38qKOtPACiMcLOT+l+5g==",
   "success": true,
-  "projectFilePath": "D:\\IMS_Project\\inventory system\\inventory system\\inventory system.csproj",
+  "projectFilePath": "E:\\ims\\IMS_Project\\inventory system\\inventory system\\inventory system.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

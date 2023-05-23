@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace inventory_system.usercontrol
 {
-    public partial class userctrlPurchaseOrder : UserControl
+    public partial class usermonthlysale : UserControl
     {
-        public userctrlPurchaseOrder()
+        public usermonthlysale()
         {
             InitializeComponent();
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
